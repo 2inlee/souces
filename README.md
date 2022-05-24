@@ -1,6 +1,6 @@
 # souces
 
-##hello - github
+## hello - github
 
 ### 분산 버전 관리 툴인 깃 저장소 호스팅을 지원하는 웹 서비스
 -루비 온 레일스로 작성
